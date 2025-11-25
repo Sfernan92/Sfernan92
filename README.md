@@ -24,6 +24,12 @@
 
 ---
 
+## 🚀 Proyecto en Curso
+
+- Sigo desarrollando de manera personal el proyecto de mi TFG, **DonTacaño.com**, un comparador de precios, con el objetivo de **ampliar mis conocimientos, poner en práctica nuevas tecnologías y técnicas, y continuar mejorando mis habilidades de programación**. Este proyecto me permite explorar soluciones más avanzadas, experimentar con nuevas funcionalidades y mantenerme en constante aprendizaje para afrontar retos futuros en el desarrollo web
+
+---
+
 ## 🌱 Habilidades y cualidades
 - **Frontend:** Angular, HTML, CSS, JavaScript.  
 - **Backend:** Conceptos básicos de Symfony, APIs REST.  
@@ -34,6 +40,14 @@
 
 ## 🎯 Objetivo profesional
 Mi meta es **crecer profesionalmente en un equipo de desarrollo frontend**, aportando **dedicación, responsabilidad y soluciones útiles y bien construidas**. Disfruto aprendiendo y compartiendo ideas, y quiero seguir evolucionando en cada proyecto en el que participe.  
+
+---
+
+## 📊 Mis estadísticas
+
+![Sandra GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfernan92&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sfernan92&layout=compact)
 
 ---
 
