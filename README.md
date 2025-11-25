@@ -43,14 +43,6 @@ Mi meta es **crecer profesionalmente en un equipo de desarrollo frontend**, apor
 
 ---
 
-## 📊 Mis estadísticas
-
-![Sandra GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfernan92&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sfernan92&layout=compact)
-
----
-
 ## 📫 Contacto
 - ✉️ Email: `sandriita_92@hotmail.com`  
 - 💼 LinkedIn: `www.linkedin.com/in/sandrafernández`  
