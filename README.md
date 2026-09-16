@@ -26,7 +26,7 @@
 
 ## 🚀 Proyecto en Curso
 
-- Sigo desarrollando de manera personal el proyecto de mi TFG, **DonTacaño.com**, un comparador de precios, con el objetivo de **ampliar mis conocimientos, poner en práctica nuevas tecnologías y técnicas, y continuar mejorando mis habilidades de programación**. Este proyecto me permite explorar soluciones más avanzadas, experimentar con nuevas funcionalidades y mantenerme en constante aprendizaje para afrontar retos futuros en el desarrollo web
+- Sigo desarrollando de manera personal el proyecto **DonTacaño.com**, un comparador de precios, con el objetivo de **ampliar mis conocimientos, poner en práctica nuevas tecnologías y técnicas, y continuar mejorando mis habilidades de programación**. Este proyecto me permite explorar soluciones más avanzadas, experimentar con nuevas funcionalidades y mantenerme en constante aprendizaje para afrontar retos futuros en el desarrollo web
 
 ---
 
