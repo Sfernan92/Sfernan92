@@ -2,7 +2,10 @@
 
 ¡Hola! Soy **Sandra Fernández Cañete**, desarrolladora web apasionada por crear **soluciones funcionales, bien estructuradas y eficientes**.  
 
-🎓 **Formación:** Grado Superior en Desarrollo de Aplicaciones Web (DAW) – Cesur  
+🎓 **Formación:** 
+
+  - Bootcampt FullStack Java, Computer Programming - Fundación Esplai - Talent IT
+  - Grado Superior en Desarrollo de Aplicaciones Web (DAW) – Cesur  
 
 💡 Me encanta aprender continuamente y aplicar lo que aprendo en proyectos reales. Actualmente busco **oportunidades de empleo en frontend** donde pueda crecer profesionalmente y aportar valor a un equipo de desarrollo.
 
