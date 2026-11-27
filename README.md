@@ -42,15 +42,27 @@
 
 ## 🚀 Proyectos en Curso
 
-- Sigo desarrollando de manera personal el proyecto **DonTacaño.com**, un comparador de precios, con el objetivo de **ampliar mis conocimientos, poner en práctica nuevas tecnologías y técnicas, y continuar mejorando mis habilidades de programación**. Este proyecto me permite explorar soluciones más avanzadas, experimentar con nuevas funcionalidades y mantenerme en constante aprendizaje para afrontar retos futuros en el desarrollo web(Ver repositorio [DonTacaño.com](https://github.com/Sfernan92/TuComparadorDePreciosPlus)).
-  
-- Actualmente desarrollo **Darpalis Exotics**, una propuesta de plataforma web para una tienda especializada en animales exóticos. El proyecto incluirá catálogo de animales y productos, fichas informativas, sistema de usuarios y gestión de pedidos. Su desarrollo me permitirá profundizar en React, Python, FastAPI y PostgreSQL mientras creo una solución real para la tienda Darpalis(Ver repositorio [Darpalis Exotics](https://github.com/Sfernan92/Darpalis_Exotics)).
+### 🛒 DonTacaño.com · Comparador de precios
+
+Sigo desarrollando de manera personal el proyecto **DonTacaño.com**, un comparador de precios, con el objetivo de **ampliar mis conocimientos, poner en práctica nuevas tecnologías y técnicas, y continuar mejorando mis habilidades de programación**. Este proyecto me permite explorar soluciones más avanzadas, experimentar con nuevas funcionalidades y mantenerme en constante aprendizaje para afrontar retos futuros en el desarrollo web(Ver repositorio.
+
+🔗 [Ver repositorio de DonTacaño.com](https://github.com/Sfernan92/TuComparadorDePreciosPlus)
+
+### 🦎 Darpalis Exotics · Tienda Web
+
+Actualmente desarrollo **Darpalis Exotics**, una propuesta de plataforma web para una tienda especializada en animales exóticos. El proyecto incluirá catálogo de animales y productos, fichas informativas, sistema de usuarios y gestión de pedidos. Su desarrollo me permitirá profundizar en React, Python, FastAPI y PostgreSQL mientras creo una solución real para la tienda Darpalis(Ver repositorio.
+
+🔗 [Ver repositorio de Darpalis Exotics](https://github.com/Sfernan92/Darpalis_Exotics)
 
 ---
 
 ## ✅ Proyectos Realizados
 
-- He desarrollado junto a un equipo de **5 personas** el proyecto final **CRM Esplai**, **mAIte, CRM de empleabilidad con IA**, una aplicación de gestión para facilitar el acompañamiento e inserción laboral de alumnado. La plataforma permite gestionar alumnos, empresas, vacantes, candidaturas, entrevistas y seguimiento, incorporando además análisis de afinidad mediante IA. En este proyecto trabajé con **React, TypeScript, Tailwind CSS, Java, Spring Boot, PostgreSQL, Docker y Python**, reforzando mis conocimientos de desarrollo full-stack, trabajo colaborativo y arquitectura de aplicaciones(Ver repositorio [CRM mAIte](https://github.com/Sfernan92/CRMEsplai_Showcase)).
+### 🤖 mAIte · CRM de empleabilidad con IA
+
+He desarrollado junto a un equipo de **5 personas** el proyecto final **CRM Esplai**, **mAIte, CRM de empleabilidad con IA**, una aplicación de gestión para facilitar el acompañamiento e inserción laboral de alumnado. La plataforma permite gestionar alumnos, empresas, vacantes, candidaturas, entrevistas y seguimiento, incorporando además análisis de afinidad mediante IA. En este proyecto trabajé con **React, TypeScript, Tailwind CSS, Java, Spring Boot, PostgreSQL, Docker y Python**, reforzando mis conocimientos de desarrollo full-stack, trabajo colaborativo y arquitectura de aplicaciones.
+
+🔗 [Conoce el proyecto mAIte](https://github.com/Sfernan92/CRMEsplai_Showcase)
 
 ---
 
@@ -78,24 +90,19 @@ Mi objetivo es **seguir creciendo profesionalmente en el ámbito del desarrollo 
 
 ## 💻 Tech Stack:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+### 🎨 Frontend
+
+[![Tecnologías frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind)](https://skillicons.dev)
+
+### ⚙️ Backend y bases de datos
+
+[![Tecnologías backend y bases de datos](https://skillicons.dev/icons?i=java,spring,python,symfony,mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Herramientas y diseño
+
+[![Herramientas de desarrollo y diseño](https://skillicons.dev/icons?i=git,github,docker,figma,ps)](https://skillicons.dev)
+
+También utilizo **Canva** y otras herramientas de Adobe para tareas de diseño.
 
 ---
 
