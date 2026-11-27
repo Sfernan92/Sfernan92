@@ -17,7 +17,7 @@
 
 ---
 
-## 👩🏻‍💻 ¡Hola! Soy Sandra
+## 👩🏻‍💻 ¡Hola soy Sandra!
 
 ¡Hola! Soy **Sandra Fernández Cañete**, desarrolladora web apasionada por crear **soluciones funcionales, bien estructuradas y eficientes**.  
 
