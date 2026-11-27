@@ -17,6 +17,8 @@
 
 ---
 
+## 👩🏻‍💻 ¡Hola! Soy Sandra
+
 ¡Hola! Soy **Sandra Fernández Cañete**, desarrolladora web apasionada por crear **soluciones funcionales, bien estructuradas y eficientes**.  
 
 🎓 **Formación:** 
@@ -38,13 +40,6 @@
 
 ---
 
-## 📚 Formación y aprendizaje continuo
-- Sigo ampliando mis conocimientos con **cursos especializados, certificaciones, formaciones complementarias y proyectos personales**.  
-- Me gusta explorar nuevas tecnologías, mejorar mi lógica de programación y aplicar lo aprendido en **pequeñas aplicaciones y prácticas reales**.  
-- Dedico tiempo a **repasar conceptos clave, documentarme y mantenerme al día con las tendencias del sector**, porque creo firmemente que en tecnología la formación continua es esencial.  
-
----
-
 ## 🚀 Proyectos en Curso
 
 - Sigo desarrollando de manera personal el proyecto **DonTacaño.com**, un comparador de precios, con el objetivo de **ampliar mis conocimientos, poner en práctica nuevas tecnologías y técnicas, y continuar mejorando mis habilidades de programación**. Este proyecto me permite explorar soluciones más avanzadas, experimentar con nuevas funcionalidades y mantenerme en constante aprendizaje para afrontar retos futuros en el desarrollo web(Ver repositorio [DonTacaño.com](https://github.com/Sfernan92/TuComparadorDePreciosPlus)).
@@ -62,6 +57,13 @@
 ## 🎯 Objetivo profesional
 
 Mi objetivo es **seguir creciendo profesionalmente en el ámbito del desarrollo de software**, formando parte de un equipo donde pueda **adquirir experiencia, afianzar mis conocimientos y aprender de profesionales con más recorrido**. Me motiva afrontar nuevos retos, compartir ideas y poner en práctica lo aprendido, aportando dedicación, responsabilidad y ganas de seguir mejorando en cada proyecto.
+
+---
+
+## 📚 Formación y aprendizaje continuo
+- Sigo ampliando mis conocimientos con **cursos especializados, certificaciones, formaciones complementarias y proyectos personales**.  
+- Me gusta explorar nuevas tecnologías, mejorar mi lógica de programación y aplicar lo aprendido en **pequeñas aplicaciones y prácticas reales**.  
+- Dedico tiempo a **repasar conceptos clave, documentarme y mantenerme al día con las tendencias del sector**, porque creo firmemente que en tecnología la formación continua es esencial.  
 
 ---
 
