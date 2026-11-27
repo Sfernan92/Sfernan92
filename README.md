@@ -2,6 +2,21 @@
 
 ![Banner tecnológico](./assets/cabecera_git.png)
 
+<p align="center">
+  <strong>Desarrolladora web · Apasionada por aprender · Siempre en evolución</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandrafern%C3%A1ndez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sandriita_92@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
 ¡Hola! Soy **Sandra Fernández Cañete**, desarrolladora web apasionada por crear **soluciones funcionales, bien estructuradas y eficientes**.  
 
 🎓 **Formación:** 
@@ -86,3 +101,11 @@ Mi objetivo es **seguir creciendo profesionalmente en el ámbito del desarrollo 
 - ✉️ Email: `sandriita_92@hotmail.com`  
 - 💼 LinkedIn: `www.linkedin.com/in/sandrafernández`  
 - 🌐 Portfolio/Proyectos: **EN CONSTRUCIÓN** ⛏
+
+---
+
+<p align="center">
+  Gracias por pasarte por mi perfil 💜
+  <br>
+  <em>Seguimos aprendiendo... ¡y atrapando bugs por el camino! 🐞</em>
+</p>
